@@ -80,11 +80,11 @@ body {
 }
 
 .sec1 {
-    margin-bottom: 100px;
+    margin-bottom: 140px;
 }
 
 .sec2 {
-    margin-bottom: 100px;
+    margin-bottom: 140px;
 }
 
 .sec3 {
@@ -92,11 +92,14 @@ body {
 }
 
 .sec4 {
-    margin-bottom: 150px;
+    padding-top: 50px;
+    margin-bottom: 100px;
 }
 
 .sec5 {
-    margin-bottom: 100px;
+    padding-top: 100px;
+    margin-bottom: 130px;
+
 }
 
 .donate-today {
