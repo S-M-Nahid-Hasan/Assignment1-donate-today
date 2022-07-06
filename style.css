@@ -7,7 +7,7 @@ body {
 .top-div {
 
 
-    background-image: url(images/donation13.jpg);
+    background-image: url(images/noya.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -41,15 +41,15 @@ body {
     color: white;
     text-align: center;
     padding-top: 40px;
-    font-size: 20px;
+    font-size: 22px;
 
 }
 
 .p2 {
     color: white;
     text-align: center;
-    padding: 10px;
-    font-size: 18px;
+    padding: 18px;
+    font-size: 20px;
 }
 
 .donate-anchor {
@@ -115,7 +115,7 @@ body {
 
 .p4 {
     font-size: 20px;
-    padding-top: 10px;
+    padding-top: 11px;
     color: gray;
 }
 
@@ -190,7 +190,7 @@ body {
     color: gray;
     text-align: center;
     font-size: 20px;
-    padding-top: 5px;
+    padding-top: 8px;
 }
 
 .box-plan {
@@ -252,7 +252,7 @@ body {
     padding-bottom: 60px;
     padding-left: 15px;
     padding-right: 15px;
-    font-size: 18px;
+    font-size: 16px;
     text-align: justify;
 }
 
@@ -301,7 +301,7 @@ body {
 }
 
 .p-great {
-    font-size: 18px;
+    font-size: 17px;
     padding-top: 17px;
     color: gray;
 }
@@ -344,9 +344,9 @@ body {
 }
 
 .lbl {
-    font-size: 20px;
-    font-weight: 600px;
     color: tomato;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 .s-button {
@@ -370,6 +370,12 @@ footer {
     font-family: 'Lobster', cursive;
     font-size: 40px;
     color: tomato;
+}
+
+.lbl1 {
+    color: tomato;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 
